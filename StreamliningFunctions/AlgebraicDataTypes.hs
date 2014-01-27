@@ -1,0 +1,22 @@
+--Distinction.hs
+-- a = ("Porpoise", "Grey")
+-- b = ("Table", "Oak")
+-- data Cetacean = Cetacean String String
+-- data Furniture = Furniture String String
+-- c = Cetacean "Porpoise" "Grey"
+-- d = Furniture "Table" "Oak"
+-- type Id = Int
+-- type Name = String
+-- data Employee = Employee Id Name
+				-- deriving (Eq, Show)
+-- data Student = Student Id Name
+				-- deriving (Eq, Show)
+-- Roygbiv.hs
+-- data Roygbiv = Red
+	-- | Orange
+	-- | Yellow
+	-- | Green
+	-- | Blue
+	-- | Indigo
+	-- | Violet
+	-- deriving (Eq, Show)
